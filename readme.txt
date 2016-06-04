@@ -6,3 +6,4 @@ This is my third change.
 This is my firth change.
 Holy shit!!!
 Creating a new branch is quick and simple.
+Other change.
