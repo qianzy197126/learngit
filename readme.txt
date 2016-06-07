@@ -7,5 +7,4 @@ This is my firth change.
 Holy shit!!!
 Creating a new branch is quick and simple.
 Other change.
-Git is free software
-
+I have a new git bash.
